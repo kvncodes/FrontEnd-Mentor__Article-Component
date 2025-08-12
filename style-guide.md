@@ -18,7 +18,7 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Body Copy
+### Body CopyFrontend Mentor - Article preview component
 
 -   Font size: 13px
 

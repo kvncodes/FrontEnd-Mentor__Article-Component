@@ -315,8 +315,19 @@ body {
 		margin-block-end: 2rem;
 	}
 
-	.author-footer button:active {
+	.article-container
+		.article-description
+		.author-footer
+		.active-share-button {
 		background-color: var(--clr-dark-blue-700);
+	}
+
+	.article-container
+		.article-description
+		.author-footer
+		.active-share-button
+		.brightness {
+		filter: brightness(10);
 	}
 
 	.author-footer button:active > img {
