@@ -151,9 +151,6 @@ body {
 	font-weight: 400;
 }
 
-.author-footer {
-}
-
 .author-footer button {
 	background-color: var(--clr-light-gray-200);
 	border-radius: 50%;
@@ -342,8 +339,6 @@ body {
 		left: 600px;
 		overflow: visible;
 		isolation: isolate;
-	}
-	.share-container-desktop {
 	}
 }
 
